@@ -14,3 +14,10 @@ Sine Spectral Analysis and Abrupt Detection Detection with Fourier Short Time Wa
 Features of Short Voice and Music Signal Time.
 
 ## Lab 2
+## Part 1
+
+Microphone Arrays and Spatial Filtering
+
+## Part 2
+
+Beamforming application for Speech Enhancement
